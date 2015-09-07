@@ -1,3 +1,4 @@
+package com.ruth.encryption;
 import java.util.Scanner;
 
 public class CaesarCipher {
